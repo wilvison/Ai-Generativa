@@ -94,7 +94,7 @@ Se você usar este projeto em sua pesquisa, por favor cite:
 ```
 @article{seunome2025codedocgen,
   title={CodeDocGen: IA Generativa para Documentação Automática de Códigos},
-  author={Seu Nome},
+  author={Wilvison Ralis},
   journal={Proceedings of the IEEE},
   year={2025}
 }
