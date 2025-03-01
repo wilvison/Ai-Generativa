@@ -92,7 +92,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 Se você usar este projeto em sua pesquisa, por favor cite:
 
 ```
-@article{seunome2025codedocgen,
+@article{https://www.linkedin.com/in/wilvison,
   title={CodeDocGen: IA Generativa para Documentação Automática de Códigos},
   author={Wilvison Ralis},
   journal={Proceedings of the IEEE},
